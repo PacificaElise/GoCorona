@@ -77,6 +77,7 @@ body {
     border-radius: 5px;
     background-color: #EC5863;
     border-width: 0.2px;
+    border: none;
     font-family: Raleway, Times, serif;
     text-transform: uppercase;
     font-weight: 800;
@@ -179,4 +180,15 @@ body {
 
 .started_image img {
     max-width: 100%;
+}
+
+.google_play {
+    position: absolute;
+    padding: 6px 602px 40px 500px;
+}
+
+
+.app_store {
+    position: absolute;
+    padding: 0px 380px 40px 700px;
 }
